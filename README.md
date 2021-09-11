@@ -67,7 +67,7 @@ that you run into issues, use your tests to assert on the inner workings of the 
 ![image](https://user-images.githubusercontent.com/2464156/132953758-020305e2-4460-4450-a12f-011eb87aea73.png)
 
 ## Summary
-Current Implementation is not perfect, there is always room for improvement. You can see that you cannot change the boundary and ammount of rocks. There are also several todo's and the current class heirarchy, naming would benefit from a second pass. Also the code coverage can be increased. The controller needs more testing and the application would benefit from several integration tests. It took me more time that the expected and it wont be fair investing more. I aimed for higer code coverage on the Engine Library.   
+Current Implementation is not perfect, there is always room for improvement. You can see that you cannot change the boundary and ammount of rocks. There are also several todo's and the current class heirarchy, naming would benefit from a second pass. Also the code coverage can be increased. The controller needs more testing and the application would benefit from several integration tests. It took me more time that the expected and it wont be fair given we have 2 hours to complete. I aimed for higer code coverage on the Engine Library.   
 
 
    
