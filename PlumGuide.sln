@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlumGuide.Rover.Terminal", "PlumGuide.Rover.Terminal\PlumGuide.Rover.Terminal.csproj", "{C6DD7135-EA71-4155-8801-1D9F368C7E9F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlumGuide.Rover.Engine.Tests", "PlumGuide.Rover.Engine.Tests\PlumGuide.Rover.Engine.Tests.csproj", "{00EC934B-10A2-405D-BA17-3B02F898035B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlumGuide.Rover.Engine", "PlumGuide.Rover.Engine\PlumGuide.Rover.Engine.csproj", "{35AFEBD6-DB58-40DB-B167-311EF473DF9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlumGuide.Rover.API", "PlumGuide.Rover.API\PlumGuide.Rover.API.csproj", "{C6110D43-C89E-437F-A996-4E7452C1F9C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlumGuide.Rover.API.Tests", "PlumGuide.Rover.API.Tests\PlumGuide.Rover.API.Tests.csproj", "{69988579-A290-4067-B136-D4039799A0F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6DD7135-EA71-4155-8801-1D9F368C7E9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6DD7135-EA71-4155-8801-1D9F368C7E9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6DD7135-EA71-4155-8801-1D9F368C7E9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6DD7135-EA71-4155-8801-1D9F368C7E9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00EC934B-10A2-405D-BA17-3B02F898035B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00EC934B-10A2-405D-BA17-3B02F898035B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00EC934B-10A2-405D-BA17-3B02F898035B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00EC934B-10A2-405D-BA17-3B02F898035B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35AFEBD6-DB58-40DB-B167-311EF473DF9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35AFEBD6-DB58-40DB-B167-311EF473DF9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35AFEBD6-DB58-40DB-B167-311EF473DF9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35AFEBD6-DB58-40DB-B167-311EF473DF9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6110D43-C89E-437F-A996-4E7452C1F9C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6110D43-C89E-437F-A996-4E7452C1F9C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6110D43-C89E-437F-A996-4E7452C1F9C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6110D43-C89E-437F-A996-4E7452C1F9C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69988579-A290-4067-B136-D4039799A0F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69988579-A290-4067-B136-D4039799A0F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69988579-A290-4067-B136-D4039799A0F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69988579-A290-4067-B136-D4039799A0F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15435D6C-507A-4DC7-896E-BA20AF4BC03E}
+	EndGlobalSection
+EndGlobal
